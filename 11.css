@@ -1,0 +1,10 @@
+p{
+    background-image: url(https://images7.alphacoders.com/334/334685.jpg);
+    /*background-size: 200px;*/
+    background-size: contain;
+    background-repeat: no-repeat;
+    height:500px;
+    /*background-position: 100px 200px;*/
+    background-origin: content-box;
+    border: 1px solid;
+}

@@ -1,0 +1,37 @@
+/*.para{
+    color:rgb(0, 0,255);
+}
+.para1{
+    color:rgb(0, 255,0);
+}
+.para2{
+    color:rgb(255, 255,255);
+}
+.para3{
+    color:rgb(0, 0,0);
+}*/
+/*.para{
+    color:rgb(50, 50,90);
+}
+.para1{
+    color:rgb(30, 80,60);
+}
+.para2{
+    color:rgb(50, 25,75);
+}
+.para3{
+    color:rgb(90, 80,80);
+}*/
+.para{
+    color:rgba(255,0, 0, 1);
+}
+.para1{
+    color:rgba(255,0, 0, 0.5); /*(0-1)range*/
+}
+.para2{
+    color:rgba(255,0, 0, 0);
+
+}
+h1{
+    background-color: hsl(120, 100%, 50%);
+}

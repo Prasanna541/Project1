@@ -1,0 +1,32 @@
+.para1{
+    font-weight:bold;
+    font-family: playwrite NL Guides;
+}
+.para2{
+    font-style:italic;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.para3{
+    text-decoration:underline overline;
+    text-decoration-style: wavy;
+    text-decoration-color:brown;
+    text-decoration-thickness: 2px;
+}
+.para4{
+    text-decoration:underline wavy red 2px;/*shorthandproperty*/
+}
+.para{
+    background-color:aqua;
+    font-size: 30px;/*defaultsixe=16px*/
+    letter-spacing: 8px;
+    word-spacing: 10px;
+    line-height: 50px;
+    text-indent:30px;
+}
+span{
+    vertical-align: super;
+    font-size: small;
+}
+h1{
+    text-align: center;
+}
